@@ -1,8 +1,11 @@
 # **Time Series and Forecasting - Final Project**
-**Authors:**  
-Matheus Hirakawa Bissacot (up202106708) |  
-Bernardo Gil Alves Salgado (up202004493) |  
-Michal Dawid Kowalski (up202401554)  
+
+## 👥 **Authors & Institution**
+
+- Author(s): Matheus Hirakawa Bissacots, Michal Dawid Kowalski, Bernardo Gil Alves Salgado
+- Course: Time Series and Forecasting
+- Institution: FCUP – Faculdade de Ciencias da Universidade do Porto
+- Date: January 2025
 
 ---
 
